@@ -1,0 +1,3 @@
+#ejercicio 2
+my_name=("Hola Mundo")
+print(my_name)
